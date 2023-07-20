@@ -67,10 +67,13 @@ git clone https://github.com/ultralytics/yolov5
 ```
 
 <h2>Project Screen Shots</h2>
-![Snipaste_2023-07-20_13-53-29](https://github.com/xiayulin123/Object_Detection/assets/113715923/ca3b4cc2-5408-470c-982f-d944ef06e9f5)
 
 ![Snipaste_2023-07-20_14-07-44](https://github.com/xiayulin123/Object_Detection/assets/113715923/185c6825-b8a0-4c53-b318-3ff31a41d28f)
 
 
 ![Snipaste_2023-07-20_14-07-58](https://github.com/xiayulin123/Object_Detection/assets/113715923/3bd7ddfc-4b6a-4a16-bd59-f34c0787a939)
+
+<h3>Here is the result from video capture</h3>
+
+![Snipaste_2023-07-20_13-53-29](https://github.com/xiayulin123/Object_Detection/assets/113715923/9857b1d2-bba6-41c3-9c35-2e7ad5366686)
 
